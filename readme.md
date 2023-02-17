@@ -31,3 +31,9 @@ natuke koodi siia. koodi nimi üles - saab aru, mis kood on ja süntaks vastaval
 
 `git checkout` - git commit hash kood panna ja näed selle commiti muudatusi, tolle hetkeseisu.
 
+
+`> clone https://github.com/elotr/GITKOOL.git YL2`
+
+`> Cloning into 'YL2'...`
+
+coolbranch
