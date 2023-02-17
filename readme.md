@@ -28,3 +28,6 @@ natuke koodi siia. koodi nimi üles - saab aru, mis kood on ja süntaks vastaval
 `git commit`
 
 `kjsdkjhfkg`
+
+`git checkout` - git commit hash kood panna ja näed selle commiti muudatusi, tolle hetkeseisu.
+
